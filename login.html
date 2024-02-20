@@ -137,12 +137,7 @@
 
     <div class="content">
         <div class="cards">
-            <div class="card header" style="border-radius: 15px;">
-            <br>
-                <button onclick="window.open('recordtable.php', '_blank');">Open Record Table</button>
-                <h3 style="font-size: 0.7rem;"></h3>
-            </div>
-        </div>
+
     </div>
     <script src="js/script.js"></script>
 </body>
